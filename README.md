@@ -14,7 +14,7 @@
 ✅ JQuery & Ajax </br>
  
  # API (JavaScript)
-<a href="https://jikan.moe/">JikanAPI (Anime DB)</a> </br>
+💠 <a href="https://jikan.moe/">JikanAPI (Anime DB)</a> </br>
 
 # Read About the Framewo rk Documentation
 💠 <a href="https://jquery.com/">JQuery</a> </br>
