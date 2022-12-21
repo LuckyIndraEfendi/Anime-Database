@@ -2,12 +2,11 @@
 
 # Desktop UI
 
-[(https://i.ibb.co/SJ8CFpp/Lucky-Anime-Desktop.png)]
+<img src="https://i.ibb.co/SJ8CFpp/Lucky-Anime-Desktop.png">
 
 # Mobile UI (Responsive)
 
-[(https://i.ibb.co/t231f8v/Lucky-Anime-DB-Mobile.png)]
-
+<img src="[https://i.ibb.co/SJ8CFpp/Lucky-Anime-Desktop.png](https://i.ibb.co/t231f8v/Lucky-Anime-DB-Mobile.png)">
 
 # Technologi
 ✅ HTML,CSS </br>
