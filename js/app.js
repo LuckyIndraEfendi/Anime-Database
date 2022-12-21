@@ -54,14 +54,14 @@ function showCards(ress) {
   let cards = "";
   const animeData = ress.data;
   animeData.map((x) => {
-    cards += `<div class="card">
-        <div class="images">
-          <img src="${x.images.webp.image_url}" alt=".." />
-        </div>
-        <div class="title">
-          <h1>${x.title}</h1>
-        </div>
-      </div>`;
+    cards += `<a href="${x.url}" target="_blank"><div class="card">
+    <div class="images">
+      <img src="${x.images.webp.image_url}" alt=".." />
+    </div>
+    <div class="title">
+      <h1>${x.title}</h1>
+    </div>
+  </div></a>`;
     animeContainer.innerHTML = cards;
   });
 }
